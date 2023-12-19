@@ -1,9 +1,0 @@
-# Ignore everything
-*
-
-# But don't ignore .tex and .pdf files
-!*.tex
-!*.pdf
-
-# Also don't ignore .gitignore file (very important)
-!.gitignore

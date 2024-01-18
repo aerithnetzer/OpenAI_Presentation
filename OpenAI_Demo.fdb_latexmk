@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1702953180 "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" "OpenAI_Demo.pdf" "OpenAI_Demo" 1702953182 0
-  "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" 1702953047 8560 9fd6ab2f2ea66082d04d1e97672f116d ""
+["pdflatex"] 1705510274 "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" "OpenAI_Demo.pdf" "OpenAI_Demo" 1705510276 0
+  "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" 1705510273 10560 79dc7913d12c174baa50438d8b7404c3 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1246382020 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -14,6 +14,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1136768653 1524 d89e2d087a9828407a196f428428ef4a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss17.tfm" 1136768653 1320 ed93d62c5f2c16343826001f03341dbc ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1136768653 1296 d77f431d10d47c8ea2cc18cf45346274 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss9.tfm" 1136768653 1320 49357c421c0d469f88b867dd0c3d10e8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmssi8.tfm" 1136768653 1500 7f49257eca65a87057f17452e9fe3ef5 ""
@@ -23,6 +24,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm" 1336178347 1676 fb6c6a335484692abff897d6e8965829 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi9.tfm" 1336178347 1700 6cce8f71de5b3d676f417bc2a77d1db2 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb" 1248133631 24457 5cbb7bdf209d5d1ce9892a9b80a307cc ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb" 1248133631 24416 36515493f76659302880e2604105b074 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb" 1248133631 24420 52dbb8e8aa0069a1b987309557f8d303 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb" 1248133631 24373 a91d375736817a75026663adcb2190c1 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb" 1248133631 25168 33771b85f45c82138dd7745db7092d1c ""
@@ -224,12 +226,11 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1699026841 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1699026790 7883458 0853eccf13d0b0f306f91297f669c289 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "OpenAI_Demo.aux" 1702953182 2218 c7f6fe5daa31d0c6edab7f8de6e66879 "pdflatex"
-  "OpenAI_Demo.nav" 1702953182 987 05da71e9bb0b419c7dfe60c19cffc8ed "pdflatex"
-  "OpenAI_Demo.out" 1702953182 374 e0c6651f65067d2144ced39f0f07874f "pdflatex"
-  "OpenAI_Demo.tex" 1702953047 8560 9fd6ab2f2ea66082d04d1e97672f116d ""
+  "OpenAI_Demo.aux" 1705510275 2966 b35b2a6e6a46885b6d28c18a52ce62b4 "pdflatex"
+  "OpenAI_Demo.nav" 1705510275 1479 f3d8e154bd421fc0dc8c961054011ea5 "pdflatex"
+  "OpenAI_Demo.out" 1705510275 437 8f047a9bf7ab70a009351d1b2a4e3c6d "pdflatex"
+  "OpenAI_Demo.tex" 1705510273 10560 79dc7913d12c174baa50438d8b7404c3 ""
   "lockup-horizontal-short-white-rgb-eps-converted-to.pdf" 1702481440 4438 6c137425ecb6b7e73a1e31211bed075a ""
-  "lockup-horizontal-short-white-rgb.eps" 0 -1 0 ""
   (generated)
   "OpenAI_Demo.aux"
   "OpenAI_Demo.log"

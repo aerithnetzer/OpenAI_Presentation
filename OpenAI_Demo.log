@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  18 DEC 2023 20:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  17 JAN 2024 10:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -886,60 +886,58 @@ LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inpu
  (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-
-LaTeX Warning: File `lockup-horizontal-short-white-rgb.eps' not found on input line 166.
-
-Package epstopdf Info: Source file: <lockup-horizontal-short-white-rgb.eps>
-(epstopdf)             Output file: <lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-13 09:30:40
-(epstopdf)                    size: 4438 bytes
-(epstopdf)             Command: <repstopdf --outfile=lockup-horizontal-short-white-rgb-eps-converted-to.pdf lockup-horizontal-short-white-rgb.eps>
-(epstopdf)             \includegraphics on input line 166.
-Package epstopdf Info: Output file is already uptodate.
-<lockup-horizontal-short-white-rgb-eps-converted-to.pdf, id=43, 433.62pt x 55.20625pt>
+<lockup-horizontal-short-white-rgb-eps-converted-to.pdf, id=49, 433.62pt x 55.20625pt>
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
 Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 166.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
-[2
+ [2
 
  <./lockup-horizontal-short-white-rgb-eps-converted-to.pdf>]
-
-LaTeX Warning: File `lockup-horizontal-short-white-rgb.eps' not found on input line 197.
-
-Package epstopdf Info: Source file: <lockup-horizontal-short-white-rgb.eps>
-(epstopdf)             Output file: <lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-13 09:30:40
-(epstopdf)                    size: 4438 bytes
-(epstopdf)             Command: <repstopdf --outfile=lockup-horizontal-short-white-rgb-eps-converted-to.pdf lockup-horizontal-short-white-rgb.eps>
-(epstopdf)             \includegraphics on input line 197.
-Package epstopdf Info: Output file is already uptodate.
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
 Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 197.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
-[3
+ [3
 
 ]
-
-LaTeX Warning: File `lockup-horizontal-short-white-rgb.eps' not found on input line 224.
-
-Package epstopdf Info: Source file: <lockup-horizontal-short-white-rgb.eps>
-(epstopdf)             Output file: <lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-(epstopdf)                    date: 2023-12-13 09:30:40
-(epstopdf)                    size: 4438 bytes
-(epstopdf)             Command: <repstopdf --outfile=lockup-horizontal-short-white-rgb-eps-converted-to.pdf lockup-horizontal-short-white-rgb.eps>
-(epstopdf)             \includegraphics on input line 224.
-Package epstopdf Info: Output file is already uptodate.
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
 Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 224.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
 
-Overfull \vbox (2.72812pt too high) detected at line 224
+Overfull \vbox (2.97812pt too high) detected at line 224
  []
 
 [4
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 232.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [5
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 250.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [6
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 264.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [7
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 276.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [8
 
 ]
 \tf@nav=\write6
@@ -958,21 +956,21 @@ See the caption package documentation for explanation.
 
 (./OpenAI_Demo.aux)
 Package rerunfilecheck Info: File `OpenAI_Demo.out' has not changed.
-(rerunfilecheck)             Checksum: E0C6651F65067D2144CED39F0F07874F;374.
+(rerunfilecheck)             Checksum: 8F047A9BF7AB70A009351D1B2A4E3C6D;437.
  ) 
 Here is how much of TeX's memory you used:
- 29325 strings out of 476025
- 592433 string characters out of 5790017
- 1864388 words of memory out of 5000000
- 49193 multiletter control sequences out of 15000+600000
- 518953 words of font info for 56 fonts, out of 8000000 for 9000
+ 29331 strings out of 476025
+ 591653 string characters out of 5790017
+ 1865388 words of memory out of 5000000
+ 49202 multiletter control sequences out of 15000+600000
+ 519259 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,428b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on OpenAI_Demo.pdf (4 pages, 69603 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on OpenAI_Demo.pdf (8 pages, 85062 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 84 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -146,7 +146,7 @@ Northwestern University Libraries \\ % Your institution for the title page
 \addtobeamertemplate{frametitle}{}{
 \begin{textblock*}{100mm}(.72\textwidth,-0.72cm)
 \vspace{-0.1cm}
-\includegraphics[width=4cm]{lockup-horizontal-short-white-rgb.eps}
+\includegraphics[width=4cm]{lockup-horizontal-short-white-rgb-eps-converted-to.pdf}
 \end{textblock*}}
 
 %----------------------------------------------------------------------------------------
@@ -163,7 +163,7 @@ Northwestern University Libraries \\ % Your institution for the title page
             \item \url{https://github.com/aerithnetzer/py-bats}
         \end{itemize}
     \end{block}
-    \end{frame}
+\end{frame}
 %------------------------------------------------
 \section{Background} % Sections can be created in order to organize your presentation into discrete blocks, all sections and subsections are automatically printed in the table of contents as an overview of the talk
 %------------------------------------------------
@@ -175,7 +175,7 @@ Northwestern University Libraries \\ % Your institution for the title page
             \node (docx) at (0,0) {.Docx};
             \node (markdown) at (3,3) {Markdown};
             \node (zotero) at (6,0) {Citations Added to Zotero by Hand};
-            \node (biblatex) at (9,3) {BibLaTeX};
+            \node (biblatex) at (9,3) {Bib\LaTeX};
             \node (pandoc) at (3,4) {Conversion with pandoc};
             \node (export) at (9,4) {Export from Zotero};
             
@@ -206,11 +206,11 @@ Northwestern University Libraries \\ % Your institution for the title page
             \item Citations are often not linked to the cited work
         \end{itemize}
     \end{block}
-    \begin{block}{The Suboptimal Solution: OpenAI GPT-3.5}
+    \begin{block}{Workaround: OpenAI GPT-3.5}
         \begin{itemize}
             \item Parse citations from article submission
             \item Create a .txt file with the citations in plaintext
-            \item Call the OpenAI API to generate a biblatex file
+            \item Call the OpenAI API to generate a Bib\LaTeX file
         \end{itemize}
     \end{block}
 \begin{block}{The Optimal Solution: Bib\LaTeX\ Evangelising}
@@ -222,6 +222,59 @@ Northwestern University Libraries \\ % Your institution for the title page
 \end{block}
 \centering
 \end{frame}
+
+%------------------------------------------------
+\section{Demo}
+\begin{frame}
+    \frametitle{Demo}
+    \centering
+    \Huge Demo
+\end{frame}
+
+%------------------------------------------------
+\begin{frame}{The Roadmap}
+    \begin{center}
+        \begin{tikzpicture}
+            \node (data) at (0,0) {Data Creation};
+            \node (llm1) at (5,0) {LLM Evaluation};
+            \node (llm2) at (10,0) {LLM Fine-Tuning};
+            
+            \draw[->] (data) -- (llm1);
+            \draw[->] (llm1) -- (llm2);
+            
+            \node [below] at (data.south) {Create a synthetic dataset};
+            \node [below] at (llm1.south) {Out-of-the-box};
+            \node [below] at (llm2.south) {Customized for citations};
+        \end{tikzpicture}
+    \end{center}
+\end{frame}
+
+%------------------------------------------------
+
+\begin{frame}{Output: Journal Article}
+    \begin{block}{Evaluating Large Language Models for Transforming Plaintext Citaitons to Machine-Readable Formats}
+        \begin{itemize}
+            \item Highlight the importance of Bib\LaTeX\ for citations and parsing by Google Scholar
+            \item Create a synthetic dataset of plaintext citations and their Bib\LaTeX\ equivalents across many citation styles
+            \item Evaluate the effectiveness and economic efficiency of large language models out-of-the-box
+            \item Fine-tune a large language model to create a citation parser and measure its effectiveness and economic efficiency
+        \end{itemize}
+        
+    \end{block}
+\end{frame}
+
+%------------------------------------------------
+
+\begin{frame}{Future Work}
+    \begin{block}{Implementing Error Correction in Crossref API}
+        \begin{itemize}
+            \item Relatively often, HTML code is returned when Bib\LaTeX is requested
+            \item Reduces effectiveness of the citation parser
+            \item Error correction could be implemented to decrease confusion
+        \end{itemize}
+    \end{block}
+\end{frame}
+
 %------------------------------------------------------
 
 %----------------------------------------------------------------------------------------

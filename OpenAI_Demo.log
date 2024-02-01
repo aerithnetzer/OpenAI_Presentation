@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  31 JAN 2024 21:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.4)  1 FEB 2024 09:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -954,7 +954,7 @@ LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inpu
  (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-<lockup-horizontal-short-white-rgb-eps-converted-to.pdf, id=107, 433.62pt x 55.20625pt>
+<lockup-horizontal-short-white-rgb-eps-converted-to.pdf, id=123, 433.62pt x 55.20625pt>
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
 Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 171.
@@ -964,117 +964,131 @@ Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf 
  <./lockup-horizontal-short-white-rgb-eps-converted-to.pdf>]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 189.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 188.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [3
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 199.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 198.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [4
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 228.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 209.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
-
-Overfull \vbox (5.2646pt too high) detected at line 228
- []
-
-[5
+ [5
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 239.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 228.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [6
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 258.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 245.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [7
 
 ]
-<config.png, id=214, 1008.76875pt x 1232.605pt>
-File: config.png Graphic file (type png)
-<use config.png>
-Package pdftex.def Info: config.png  used on input line 268.
-(pdftex.def)             Requested size: 173.96661pt x 212.56816pt.
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 268.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 261.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [8
 
-Overfull \vbox (25.25584pt too high) detected at line 268
- []
-
-[8
-
- <./config.png>]
+]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 284.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 287.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [9
 
 ]
+<config.png, id=265, 1008.76875pt x 1232.605pt>
+File: config.png Graphic file (type png)
+<use config.png>
+Package pdftex.def Info: config.png  used on input line 297.
+(pdftex.def)             Requested size: 173.96661pt x 212.56816pt.
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 315.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 297.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
 
-Overfull \vbox (2.97812pt too high) detected at line 315
+Overfull \vbox (25.25584pt too high) detected at line 297
  []
 
 [10
 
-]
+ <./config.png>]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 337.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 327.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
- [11
+
+Overfull \vbox (5.2646pt too high) detected at line 327
+ []
+
+[11
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 357.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 356.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
- [12
+
+Overfull \vbox (2.97812pt too high) detected at line 356
+ []
+
+[12
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 377.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 378.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [13
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 389.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 398.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [14
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 399.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 418.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [15
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 405.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 430.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [16
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 440.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [17
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 446.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [18
 
 ]
 \tf@nav=\write6
@@ -1093,21 +1107,21 @@ See the caption package documentation for explanation.
 
 (./OpenAI_Demo.aux)
 Package rerunfilecheck Info: File `OpenAI_Demo.out' has not changed.
-(rerunfilecheck)             Checksum: 1813A28C884C6341684FD1CEF7E7E8A9;1794.
+(rerunfilecheck)             Checksum: A2F9928C83E233AC9BA5DCD2FA095A39;2119.
  ) 
 Here is how much of TeX's memory you used:
- 29597 strings out of 476025
- 595616 string characters out of 5790017
+ 29640 strings out of 476025
+ 596149 string characters out of 5790017
  1866388 words of memory out of 5000000
- 49432 multiletter control sequences out of 15000+600000
+ 49468 multiletter control sequences out of 15000+600000
  520581 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,122p,492b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,122p,492b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on OpenAI_Demo.pdf (16 pages, 236007 bytes).
+Output written on OpenAI_Demo.pdf (18 pages, 240306 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
- 50 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 450 PDF objects out of 1000 (max. 8388607)
+ 400 compressed objects within 4 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
 

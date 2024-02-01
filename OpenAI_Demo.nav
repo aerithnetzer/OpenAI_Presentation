@@ -16,60 +16,72 @@
 \headcommand {\slideentry {1}{3}{1}{4/4}{Vision}{0}}
 \headcommand {\beamer@framepages {4}{4}}
 \headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\beamer@subsectionentry {0}{1}{4}{5}{Citations}}
-\headcommand {\slideentry {1}{4}{1}{5/5}{Citations}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{5}{Possibilities}}
+\headcommand {\slideentry {1}{4}{1}{5/5}{Possibilities}{0}}
 \headcommand {\beamer@framepages {5}{5}}
 \headcommand {\beamer@subsectionpages {5}{5}}
-\headcommand {\beamer@subsectionentry {0}{1}{5}{6}{Possibilities}}
-\headcommand {\slideentry {1}{5}{1}{6/6}{Possibilities}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{5}{6}{O and A}}
+\headcommand {\slideentry {1}{5}{1}{6/6}{O and A}{0}}
 \headcommand {\beamer@framepages {6}{6}}
 \headcommand {\beamer@sectionpages {2}{6}}
 \headcommand {\beamer@subsectionpages {6}{6}}
-\headcommand {\sectionentry {2}{Solutions}{7}{Solutions}{0}}
+\headcommand {\sectionentry {2}{JMSs}{7}{JMSs}{0}}
 \headcommand {\beamer@subsectionpages {7}{6}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{O and A}}
-\headcommand {\slideentry {2}{1}{1}{7/7}{O and A}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{Challenges}}
+\headcommand {\slideentry {2}{1}{1}{7/7}{Challenges}{0}}
 \headcommand {\beamer@framepages {7}{7}}
 \headcommand {\beamer@subsectionpages {7}{7}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{Websites}}
-\headcommand {\slideentry {2}{2}{1}{8/8}{Websites}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{Solution}}
+\headcommand {\slideentry {2}{2}{1}{8/8}{Solution}{0}}
 \headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@sectionpages {7}{8}}
 \headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{9}{JMS}}
-\headcommand {\slideentry {2}{3}{1}{9/9}{JMS}{0}}
+\headcommand {\sectionentry {3}{Website Design}{9}{Website Design}{0}}
+\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{9}{Challenges}}
+\headcommand {\slideentry {3}{1}{1}{9/9}{Challenges}{0}}
 \headcommand {\beamer@framepages {9}{9}}
 \headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\beamer@subsectionentry {0}{2}{4}{10}{Problem \& Solution}}
-\headcommand {\slideentry {2}{4}{1}{10/10}{Problem \& Solution}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{10}{Solutions}}
+\headcommand {\slideentry {3}{2}{1}{10/10}{Solutions}{0}}
 \headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@sectionpages {9}{10}}
 \headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{2}{5}{11}{py-bats}}
-\headcommand {\slideentry {2}{5}{1}{11/11}{py-bats}{0}}
+\headcommand {\sectionentry {4}{Citations}{11}{Citations}{0}}
+\headcommand {\slideentry {4}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@sectionpages {7}{11}}
 \headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\sectionentry {3}{Future Work}{12}{Future Work}{0}}
-\headcommand {\beamer@subsectionpages {12}{11}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{12}{The Roadmap}}
-\headcommand {\slideentry {3}{1}{1}{12/12}{The Roadmap}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{12}{Problem \& Solution}}
+\headcommand {\slideentry {4}{1}{1}{12/12}{Problem \& Solution}{0}}
 \headcommand {\beamer@framepages {12}{12}}
 \headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{13}{Journal Articles}}
-\headcommand {\slideentry {3}{2}{1}{13/13}{Journal Articles}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{13}{py-bats}}
+\headcommand {\slideentry {4}{2}{1}{13/13}{py-bats}{0}}
 \headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@sectionpages {11}{13}}
 \headcommand {\beamer@subsectionpages {13}{13}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{14}{Dev Work}}
-\headcommand {\slideentry {3}{3}{1}{14/14}{Dev Work}{0}}
+\headcommand {\sectionentry {5}{Future Work}{14}{Future Work}{0}}
+\headcommand {\beamer@subsectionpages {14}{13}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{14}{The Roadmap}}
+\headcommand {\slideentry {5}{1}{1}{14/14}{The Roadmap}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@sectionpages {12}{14}}
 \headcommand {\beamer@subsectionpages {14}{14}}
-\headcommand {\sectionentry {4}{Thanks!}{15}{Thanks!}{0}}
-\headcommand {\slideentry {4}{0}{1}{15/15}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{15}{Journal Articles}}
+\headcommand {\slideentry {5}{2}{1}{15/15}{Journal Articles}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {4}{0}{2}{16/16}{}{0}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{16}{Dev Work}}
+\headcommand {\slideentry {5}{3}{1}{16/16}{Dev Work}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@partpages {1}{16}}
-\headcommand {\beamer@subsectionpages {15}{16}}
-\headcommand {\beamer@sectionpages {15}{16}}
-\headcommand {\beamer@documentpages {16}}
-\headcommand {\gdef \inserttotalframenumber {16}}
+\headcommand {\beamer@sectionpages {14}{16}}
+\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\sectionentry {6}{Thanks!}{17}{Thanks!}{0}}
+\headcommand {\slideentry {6}{0}{1}{17/17}{}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\slideentry {6}{0}{2}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\beamer@partpages {1}{18}}
+\headcommand {\beamer@subsectionpages {17}{18}}
+\headcommand {\beamer@sectionpages {17}{18}}
+\headcommand {\beamer@documentpages {18}}
+\headcommand {\gdef \inserttotalframenumber {18}}

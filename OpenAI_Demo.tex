@@ -180,7 +180,6 @@ Northwestern University Libraries \\ % Your institution for the title page
 (…)
 We need to take information, wherever it is stored, make our copies and share them with the world. We need to take stuff that’s out of copyright and add it to the archive. We need to buy secret databases and put them on the Web. We need to download scientific journals and upload them to file sharing networks. We need to fight for Guerilla Open Access.
 With enough of us, around the world, we’ll not just send a strong message opposing the privatization of knowledge — we’ll make it a thing of the past. Will you join us?
-Guerilla
 \end{quotation}
 \begin{flushright}
     Aaron Swartz, 2008
@@ -198,9 +197,109 @@ Guerilla
     \end{center}
 \end{frame}
 
-\subsection{Citations}
+\subsection{Possibilities}
 \begin{frame}
-    \frametitle{Citations}
+    \frametitle{This is Actually Possible!}
+    \begin{center}
+        \huge{\textit{Northwestern Insider} to be Published by Northwestern University Libraries!}
+    \end{center}
+    \begin{center}
+        \large{Website created in two hours using Aerith's abstracted template of Chris Diaz's code.}
+    \end{center}
+\end{frame}
+
+\subsection{O and A}
+\begin{frame}{The Name of the Game}
+    \begin{block}{Operationalize}
+        \begin{itemize}
+            \item Extend and abstract the current template created by Chris Diaz
+            \item Host our own Open Journal Systems instance for future journals
+            \item Create standard operating procedures for journal production and management
+        \end{itemize}
+    \end{block} % Add closing brace for "block" environment
+    \begin{block}{Automate}
+        \begin{itemize}
+            \item Facilitate one-click (or few clicks) journal deployments
+            \item Minimize reliance on outside vendors that we have to wait on to get things done
+            \item Automate citation management, format construction, and metadata appending
+        \end{itemize}
+    \end{block} % Add closing brace for "block" environment
+    
+\end{frame}
+
+\section*{JMSs}
+\subsection{Challenges}
+\begin{frame}
+    \frametitle{Challenge: Journal Management Systems}
+    \begin{center}
+        \begin{block}{Challenges}
+            \begin{itemize}
+                \item OJS uses PHP
+                \item OJS cannot be easily customized
+                \item So archaic that almost no one hosts it themselves and relies on PKP
+                \item Reliant on external vendors
+            \end{itemize}
+            
+        \end{block}
+    \end{center}
+\end{frame}
+
+\subsection{Solution}
+\begin{frame}
+    \frametitle{Solution: Djournal}
+    \begin{center}
+        \begin{block}{Djournal}
+            \begin{itemize}
+                \item A django application for journal management systems
+                \item Homegrown
+                \item Lightweight, elastic, and no more icky, icky PHP
+            \end{itemize}
+        \end{block}
+    This is nowhere close to ready for deployment.
+    \end{center}
+    
+\end{frame}
+
+
+\section*{Website Design}
+\subsection{Challenges}
+\begin{frame}
+    \frametitle{Challenges}
+    \begin{center}
+        \begin{tikzpicture}
+            \node (markdown) at (0,0) {Markdown};
+            \node (html) at (3,3) {HTML};
+            \node (hugo) at (3,4) {Built with Hugo};
+            \node (github) at (6,2) {Published Via GitHub Pages};
+
+            \draw[->] (markdown) -- (html);
+            \draw[-] (html) -- (hugo);
+            \draw[-] (html) -- (github);
+        \end{tikzpicture}
+    \end{center}
+    \begin{block}{Challenges}
+        \begin{itemize}
+            \item Have to create a new website for every journal
+            \item Have to create edit the same HTML for every journal
+            \item The current process is not scalable
+        \end{itemize}
+    \end{block}
+\end{frame}
+\subsection{Solutions}
+\begin{frame}
+    \frametitle{Templating Journal Websites}
+    \begin{center}
+    \url{https://github.com/nulib-ds/publishing-template}
+    \begin{center}
+        \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{config.png}
+    \end{center}
+    \end{center}
+\end{frame}
+
+
+\section{Citations}
+\begin{frame}
+    \frametitle{Challenges}
     \begin{center}
         \begin{tikzpicture}
             \node (docx) at (0,0) {.Docx};
@@ -226,64 +325,6 @@ Guerilla
             \end{itemize}
         \end{block}
 \end{frame}
-
-\subsection{Possibilities}
-\begin{frame}
-    \frametitle{This is Actually Possible!}
-    \begin{center}
-        \huge{\textit{Northwestern Insider} to be Published by Northwestern University Libraries!}
-    \end{center}
-    \begin{center}
-        \large{Website created in two hours using Aerith's abstracted template of Chris Diaz's code.}
-    \end{center}
-\end{frame}
-\section{Solutions}
-\subsection{O and A}
-\begin{frame}{The Name of the Game}
-    \begin{block}{Operationalize}
-        \begin{itemize}
-            \item Extend and abstract the current template created by Chris Diaz
-            \item Host our own Open Journal Systems instance for future journals
-            \item Create standard operating procedures for journal production and management
-        \end{itemize}
-    \end{block} % Add closing brace for "block" environment
-    \begin{block}{Automate}
-        \begin{itemize}
-            \item Facilitate one-click (or few clicks) journal deployments
-            \item Minimize reliance on outside vendors that we have to wait on to get things done
-            \item Automate citation management, format construction, and metadata appending
-        \end{itemize}
-    \end{block} % Add closing brace for "block" environment
-    
-\end{frame}
-\subsection{Websites}
-\begin{frame}
-    \frametitle{Templating Journal Websites}
-    \begin{center}
-    \url{https://github.com/nulib-ds/publishing-template}
-    \begin{center}
-        \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{config.png}
-    \end{center}
-    \end{center}
-\end{frame}
-
-\subsection{JMS}
-\begin{frame}
-    \frametitle{Djournal}
-    \begin{center}
-        \begin{block}{Djournal}
-            \begin{itemize}
-                \item A django application for journal management systems
-                \item Homegrown
-                \item Lightweight, elastic, and no more icky, icky PHP
-            \end{itemize}
-        \end{block}
-    This is nowhere close to ready for deployment.
-    \end{center}
-    
-\end{frame}
-
-
 
 
 %------------------------------------------------
@@ -391,7 +432,7 @@ Guerilla
 %------------------------------------------------------
 \begin{frame}{A Quick Shoutout to People who contribute}
     \begin{block}{Chris Diaz}
-        Never met the guy but I figure he should get some credit for doing all the hard work before me
+        Because he should get some credit for building the website from which I made the template
     \end{block}
     \begin{block}{David Schober}
         For trusting me with access to GPT-3.5

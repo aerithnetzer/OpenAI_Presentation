@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706758188 "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" "OpenAI_Demo.pdf" "OpenAI_Demo" 1706758190 0
-  "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" 1706758188 15998 86d22afe1a33a0e672d548404b0300a4 ""
+["pdflatex"] 1706800156 "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" "OpenAI_Demo.pdf" "OpenAI_Demo" 1706800158 0
+  "/Users/aerith/warlock/OpenAI_Presentation/OpenAI_Demo.tex" 1706800156 17299 8af1f4949b97873f73fa0e1b2810490a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm" 1246382020 996 a18840b13b499c08ac2de96a99eda4bc ""
@@ -228,15 +228,15 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty" 1655066402 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
-  "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1699026841 4623355 b8cad38412faebe1ce5b780a45db67bd ""
-  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1699026790 7883458 0853eccf13d0b0f306f91297f669c289 ""
+  "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1699113454 4623355 b8cad38412faebe1ce5b780a45db67bd ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1699113401 7883460 037dfdf0bee2408e49adde20e20758a2 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "OpenAI_Demo.aux" 1706758190 7025 76e50afee6d547ec05bfd3f0ed4b5132 "pdflatex"
-  "OpenAI_Demo.nav" 1706758190 3848 074511c4dbc2989f873ab559bb561e6a "pdflatex"
-  "OpenAI_Demo.out" 1706758190 1794 1813a28c884c6341684fd1cef7e7e8a9 "pdflatex"
-  "OpenAI_Demo.tex" 1706758188 15998 86d22afe1a33a0e672d548404b0300a4 ""
-  "config.png" 1706742361 175287 1a56efdb857f91272f536c8b4ad8e888 ""
-  "lockup-horizontal-short-white-rgb-eps-converted-to.pdf" 1702481440 4438 6c137425ecb6b7e73a1e31211bed075a ""
+  "OpenAI_Demo.aux" 1706800158 7946 40b855cd4d36a6c7cf07887d865edaba "pdflatex"
+  "OpenAI_Demo.nav" 1706800158 4474 2b0fe7c79275feca9658bf5240106eee "pdflatex"
+  "OpenAI_Demo.out" 1706800158 2119 a2f9928c83e233ac9ba5dcd2fa095a39 "pdflatex"
+  "OpenAI_Demo.tex" 1706800156 17299 8af1f4949b97873f73fa0e1b2810490a ""
+  "config.png" 1706758285 175287 1a56efdb857f91272f536c8b4ad8e888 ""
+  "lockup-horizontal-short-white-rgb-eps-converted-to.pdf" 1706758285 4438 6c137425ecb6b7e73a1e31211bed075a ""
   (generated)
   "OpenAI_Demo.aux"
   "OpenAI_Demo.log"

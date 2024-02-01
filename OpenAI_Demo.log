@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  17 JAN 2024 10:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  31 JAN 2024 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -725,27 +725,95 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
- (./OpenAI_Demo.aux)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count378
+\mult@box=\box88
+\multicol@leftmargin=\dimen347
+\c@unbalance=\count379
+\c@collectmore=\count380
+\doublecol@number=\count381
+\multicoltolerance=\count382
+\multicolpretolerance=\count383
+\full@width=\dimen348
+\page@free=\dimen349
+\premulticols=\dimen350
+\postmulticols=\dimen351
+\multicolsep=\skip68
+\multicolbaselineskip=\skip69
+\partial@page=\box89
+\last@line=\box90
+\maxbalancingoverflow=\dimen352
+\mult@rightbox=\box91
+\mult@grightbox=\box92
+\mult@firstbox=\box93
+\mult@gfirstbox=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\c@minrows=\count384
+\c@columnbadness=\count385
+\c@finalcolumnbadness=\count386
+\last@try=\dimen353
+\multicolovershoot=\dimen354
+\multicolundershoot=\dimen355
+\mult@nat@firstbox=\box131
+\colbreak@box=\box132
+\mc@col@check@num=\count387
+) (./OpenAI_Demo.aux)
 \openout1 = `OpenAI_Demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 138.
+LaTeX Font Info:    ... okay on input line 138.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -783,16 +851,16 @@ LaTeX Font Info:    ... okay on input line 137.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count378
-\scratchdimen=\dimen347
-\scratchbox=\box88
-\nofMPsegments=\count379
-\nofMParguments=\count380
+\scratchcounter=\count388
+\scratchdimen=\dimen356
+\scratchbox=\box133
+\nofMPsegments=\count389
+\nofMParguments=\count390
 \everyMPshowfont=\toks49
-\MPscratchCnt=\count381
-\MPscratchDim=\dimen348
-\MPnumerator=\count382
-\makeMPintoPDFobject=\count383
+\MPscratchCnt=\count391
+\MPscratchDim=\dimen357
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
 \everyMPtoPDFconversion=\toks50
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -800,60 +868,60 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 137.
+Package hyperref Info: Link coloring OFF on input line 138.
  (./OpenAI_Demo.out) (./OpenAI_Demo.out)
 \@outlinefile=\write5
 \openout5 = `OpenAI_Demo.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 137.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 138.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 137.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 138.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 137.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 137.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 137.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 137.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 137.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 137.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 137.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 138.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 137.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 137.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 138.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 137.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 138.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 137.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 137.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 137.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 137.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 137.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 138.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 137.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 137.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 138.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 138.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 137.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 138.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 137.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 138.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 137.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 138.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -870,74 +938,143 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count384
+\c@lstlisting=\count394
  (./OpenAI_Demo.nav) [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 166.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 171.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 166.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 171.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 166.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 171.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-<lockup-horizontal-short-white-rgb-eps-converted-to.pdf, id=49, 433.62pt x 55.20625pt>
+<lockup-horizontal-short-white-rgb-eps-converted-to.pdf, id=107, 433.62pt x 55.20625pt>
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 166.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 171.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [2
 
  <./lockup-horizontal-short-white-rgb-eps-converted-to.pdf>]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 197.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 189.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [3
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 224.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 199.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [4
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 228.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
 
-Overfull \vbox (2.97812pt too high) detected at line 224
+Overfull \vbox (5.2646pt too high) detected at line 228
  []
 
-[4
+[5
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 232.
-(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
- [5
-
-]
-File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
-<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 250.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 239.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [6
 
 ]
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 264.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 258.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
  [7
 
 ]
+<config.png, id=214, 1008.76875pt x 1232.605pt>
+File: config.png Graphic file (type png)
+<use config.png>
+Package pdftex.def Info: config.png  used on input line 268.
+(pdftex.def)             Requested size: 173.96661pt x 212.56816pt.
 File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
 <use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
-Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 276.
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 268.
 (pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
- [8
+
+Overfull \vbox (25.25584pt too high) detected at line 268
+ []
+
+[8
+
+ <./config.png>]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 284.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [9
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 315.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+
+Overfull \vbox (2.97812pt too high) detected at line 315
+ []
+
+[10
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 337.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [11
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 357.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [12
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 377.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [13
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 389.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [14
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 399.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [15
+
+]
+File: lockup-horizontal-short-white-rgb-eps-converted-to.pdf Graphic file (type pdf)
+<use lockup-horizontal-short-white-rgb-eps-converted-to.pdf>
+Package pdftex.def Info: lockup-horizontal-short-white-rgb-eps-converted-to.pdf  used on input line 405.
+(pdftex.def)             Requested size: 113.81102pt x 14.48975pt.
+ [16
 
 ]
 \tf@nav=\write6
@@ -956,21 +1093,21 @@ See the caption package documentation for explanation.
 
 (./OpenAI_Demo.aux)
 Package rerunfilecheck Info: File `OpenAI_Demo.out' has not changed.
-(rerunfilecheck)             Checksum: 8F047A9BF7AB70A009351D1B2A4E3C6D;437.
+(rerunfilecheck)             Checksum: 1813A28C884C6341684FD1CEF7E7E8A9;1794.
  ) 
 Here is how much of TeX's memory you used:
- 29331 strings out of 476025
- 591653 string characters out of 5790017
- 1865388 words of memory out of 5000000
- 49202 multiletter control sequences out of 15000+600000
- 519259 words of font info for 57 fonts, out of 8000000 for 9000
+ 29597 strings out of 476025
+ 595616 string characters out of 5790017
+ 1866388 words of memory out of 5000000
+ 49432 multiletter control sequences out of 15000+600000
+ 520581 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,122p,428b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on OpenAI_Demo.pdf (8 pages, 85062 bytes).
+ 128i,16n,122p,492b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on OpenAI_Demo.pdf (16 pages, 236007 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 390 PDF objects out of 1000 (max. 8388607)
+ 342 compressed objects within 4 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

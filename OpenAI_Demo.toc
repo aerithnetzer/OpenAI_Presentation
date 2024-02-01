@@ -1,4 +1,17 @@
-\beamer@sectionintoc {1}{Background}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{Current State}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Problem \& Solution}{4}{0}{1}
-\beamer@sectionintoc {2}{Demo}{5}{0}{2}
+\beamer@sectionintoc {1}{Background}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{FOSS}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Guerilla Open Access}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Vision}{4}{0}{1}
+\beamer@subsectionintoc {1}{4}{Citations}{5}{0}{1}
+\beamer@subsectionintoc {1}{5}{Possibilities}{6}{0}{1}
+\beamer@sectionintoc {2}{Solutions}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{O and A}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Websites}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{JMS}{9}{0}{2}
+\beamer@subsectionintoc {2}{4}{Problem \& Solution}{10}{0}{2}
+\beamer@subsectionintoc {2}{5}{py-bats}{11}{0}{2}
+\beamer@sectionintoc {3}{Future Work}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{The Roadmap}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Journal Articles}{13}{0}{3}
+\beamer@subsectionintoc {3}{3}{Dev Work}{14}{0}{3}
+\beamer@sectionintoc {4}{Thanks!}{15}{0}{4}

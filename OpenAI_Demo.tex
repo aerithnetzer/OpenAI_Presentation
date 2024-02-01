@@ -109,6 +109,7 @@
 \usepackage{tikz}
 \usepackage{pgfpages}
 \usepackage{listings}
+\usepackage{multicol}
 
 %----------------------------------------------------------------------------------------
 % CUSTOM MACROS
@@ -121,7 +122,7 @@
 %	TITLE PAGE
 %----------------------------------------------------------------------------------------
 
-\title[Intro]{LLMs for Citation Management} % The short title appears at the bottom of every slide, the full title is only on the title page
+\title[Intro]{A Short Guide to Destroying the Modern Information Marketplace} % The short title appears at the bottom of every slide, the full title is only on the title page
 
 \author[Aerith Netzer]{Aerith Netzer} % Your name
 \institute[NU] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
@@ -132,7 +133,7 @@ Northwestern University Libraries \\ % Your institution for the title page
 \medskip
 \textit{aerith.netzer@northwestern.edu} % Your email address
 }
-\date{\today} % Date, can be changed to a custom date
+\date{February 1, 2024} % Date, can be changed to a custom date
 
 \begin{document}
 
@@ -151,6 +152,8 @@ Northwestern University Libraries \\ % Your institution for the title page
 
 %----------------------------------------------------------------------------------------
 %	PRESENTATION SLIDES
+\section{Background}
+\subsection{FOSS}
 \begin{frame}
     \frametitle{FOSS Statement}
     \begin{block}{This Presentation's \LaTeX\ File is Available on GitHub}
@@ -161,15 +164,43 @@ Northwestern University Libraries \\ % Your institution for the title page
     \begin{block}{The Code Demonstrated in this Presentation is Available on GitHub}
         \begin{itemize}
             \item \url{https://github.com/aerithnetzer/py-bats}
+            \item \url{https://github.com/nulib-ds/publishing-template}
+            \item \url{https://github.com/aerithnetzer/djournal}
         \end{itemize}
     \end{block}
 \end{frame}
 %------------------------------------------------
-\section{Background} % Sections can be created in order to organize your presentation into discrete blocks, all sections and subsections are automatically printed in the table of contents as an overview of the talk
-%------------------------------------------------
-\subsection{Current State}
+ % Sections can be created in order to organize your presentation into discrete blocks, all sections and subsections are automatically printed in the table of contents as an overview of the talk
+%-----------------------------------------------
+\subsection{Guerilla Open Access}
 \begin{frame}
-    \frametitle{Current State}
+    \frametitle{Guiding Principles (Legally not instructions)}
+\begin{quotation}
+    Information is power. But like all power, there are those who want to keep it for themselves. The world’s entire scientific and cultural heritage, published over centuries in books and journals, is increasingly being digitized and locked up by a handful of private corporations. Want to read the papers featuring the most famous results of the sciences? You’ll need to send enormous amounts to publishers like Reed Elsevier.
+(…)
+We need to take information, wherever it is stored, make our copies and share them with the world. We need to take stuff that’s out of copyright and add it to the archive. We need to buy secret databases and put them on the Web. We need to download scientific journals and upload them to file sharing networks. We need to fight for Guerilla Open Access.
+With enough of us, around the world, we’ll not just send a strong message opposing the privatization of knowledge — we’ll make it a thing of the past. Will you join us?
+Guerilla
+\end{quotation}
+\begin{flushright}
+    Aaron Swartz, 2008
+    \\ \textit{Internet Archive, Guerilla Open Access Manifesto}
+\end{flushright}
+\end{frame}
+\subsection{Vision}
+\begin{frame}
+    \frametitle{The Vision}
+    \begin{center}
+        \huge{Put the big publishers out of business.}
+    \end{center}
+    \begin{center}
+        \small{Wiley, Elsevier, Springer, Taylor \& Francis, Sage, and others will not be able to compete with self-funded opertions like us.}
+    \end{center}
+\end{frame}
+
+\subsection{Citations}
+\begin{frame}
+    \frametitle{Citations}
     \begin{center}
         \begin{tikzpicture}
             \node (docx) at (0,0) {.Docx};
@@ -191,14 +222,74 @@ Northwestern University Libraries \\ % Your institution for the title page
                 \item The current process is time-consuming
                 \item The current process is error-prone
                 \item The current process is not scalable
+                \item Reliant on inaccessible software
             \end{itemize}
         \end{block}
-        
 \end{frame}
+
+\subsection{Possibilities}
+\begin{frame}
+    \frametitle{This is Actually Possible!}
+    \begin{center}
+        \huge{\textit{Northwestern Insider} to be Published by Northwestern University Libraries!}
+    \end{center}
+    \begin{center}
+        \large{Website created in two hours using Aerith's abstracted template of Chris Diaz's code.}
+    \end{center}
+\end{frame}
+\section{Solutions}
+\subsection{O and A}
+\begin{frame}{The Name of the Game}
+    \begin{block}{Operationalize}
+        \begin{itemize}
+            \item Extend and abstract the current template created by Chris Diaz
+            \item Host our own Open Journal Systems instance for future journals
+            \item Create standard operating procedures for journal production and management
+        \end{itemize}
+    \end{block} % Add closing brace for "block" environment
+    \begin{block}{Automate}
+        \begin{itemize}
+            \item Facilitate one-click (or few clicks) journal deployments
+            \item Minimize reliance on outside vendors that we have to wait on to get things done
+            \item Automate citation management, format construction, and metadata appending
+        \end{itemize}
+    \end{block} % Add closing brace for "block" environment
+    
+\end{frame}
+\subsection{Websites}
+\begin{frame}
+    \frametitle{Templating Journal Websites}
+    \begin{center}
+    \url{https://github.com/nulib-ds/publishing-template}
+    \begin{center}
+        \includegraphics[width=\textwidth, height=\textheight, keepaspectratio]{config.png}
+    \end{center}
+    \end{center}
+\end{frame}
+
+\subsection{JMS}
+\begin{frame}
+    \frametitle{Djournal}
+    \begin{center}
+        \begin{block}{Djournal}
+            \begin{itemize}
+                \item A django application for journal management systems
+                \item Homegrown
+                \item Lightweight, elastic, and no more icky, icky PHP
+            \end{itemize}
+        \end{block}
+    This is nowhere close to ready for deployment.
+    \end{center}
+    
+\end{frame}
+
+
+
+
 %------------------------------------------------
 \subsection{Problem \& Solution}
 \begin{frame}[t]
-    \frametitle{Solving Problems That We Created}
+    \frametitle{Solving Challenges}
     \begin{block}{The Problem of Plaintext Citations}
         \begin{itemize}
             \item Plaintext citations are not machine-readable
@@ -223,15 +314,31 @@ Northwestern University Libraries \\ % Your institution for the title page
 \centering
 \end{frame}
 
-%------------------------------------------------
-\section{Demo}
-\begin{frame}
-    \frametitle{Demo}
-    \centering
-    \Huge Demo
+%-------------------------------------------------
+%Begin frame
+\subsection{py-bats}
+\begin{frame}{My Magnum Opus - py-bats}
+    \begin{center}
+        \begin{tikzpicture}
+            \node[align=center] (data) at (-4,-2) {Docx Conversion \\ to Markdown};
+            \node[align=center] (llm1) at (-4,2) {Clean and Isolate \\ Plaintext Citations};
+            \node[align=center] (llm2) at (0,-2) {Call OpenAI API to \\ Generate Bib\LaTeX};
+            \node[align=center] (llm3) at (4,2) {Create .tex File \\ with Bib\LaTeX};
+            \node[align=center] (llm4) at (4, -2) {Automate citation additions \\ to markdown file};
+
+            
+            \draw[->] (data) -- (llm1);
+            \draw[->] (llm1) -- (llm2);
+            \draw[->] (llm2) -- (llm3);
+            \draw[->] (llm3) -- (llm4);
+
+        \end{tikzpicture}
+    \end{center}
 \end{frame}
 
 %------------------------------------------------
+\section{Future Work}
+\subsection{The Roadmap}
 \begin{frame}{The Roadmap}
     \begin{center}
         \begin{tikzpicture}
@@ -250,8 +357,8 @@ Northwestern University Libraries \\ % Your institution for the title page
 \end{frame}
 
 %------------------------------------------------
-
-\begin{frame}{Output: Journal Article}
+\subsection{Journal Articles}
+\begin{frame}{Output: Journal Article(s)}
     \begin{block}{Evaluating Large Language Models for Transforming Plaintext Citaitons to Machine-Readable Formats}
         \begin{itemize}
             \item Highlight the importance of Bib\LaTeX\ for citations and parsing by Google Scholar
@@ -259,24 +366,41 @@ Northwestern University Libraries \\ % Your institution for the title page
             \item Evaluate the effectiveness and economic efficiency of large language models out-of-the-box
             \item Fine-tune a large language model to create a citation parser and measure its effectiveness and economic efficiency
         \end{itemize}
+    \end{block}
+    \begin{block}{A Modern, Maintainable, and Scalable Diamond Open Access Journal Publishing Workflow}
+        \begin{itemize}
+            \item Present hugo templating for journal websites
+            \item Provide code, resources, and documentation for other libraries do spin up their own operations
+        \end{itemize}
         
     \end{block}
 \end{frame}
 
 %------------------------------------------------
-
-\begin{frame}{Future Work}
+\subsection{Dev Work}
+\begin{frame}{Development Opportunities}
     \begin{block}{Implementing Error Correction in Crossref API}
         \begin{itemize}
-            \item Relatively often, HTML code is returned when Bib\LaTeX is requested
+            \item Relatively often, HTML code is returned when Bib\LaTeX\ is requested
             \item Reduces effectiveness of the citation parser
             \item Error correction could be implemented to decrease confusion
         \end{itemize}
     \end{block}
 \end{frame}
-
+\section{Thanks!}
 %------------------------------------------------------
-
+\begin{frame}{A Quick Shoutout to People who contribute}
+    \begin{block}{Chris Diaz}
+        Never met the guy but I figure he should get some credit for doing all the hard work before me
+    \end{block}
+    \begin{block}{David Schober}
+        For trusting me with access to GPT-3.5
+    \end{block}
+\end{frame}
 %----------------------------------------------------------------------------------------
-
+\begin{frame}{Finale}
+    \centering
+    Fin.
+    
+\end{frame}
 \end{document} 
